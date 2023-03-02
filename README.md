@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Start the json server first then run the application:
+the command for starting the server is->> json-server db.json --port 3001
 ## Available Scripts
 
 In the project directory, you can run:
